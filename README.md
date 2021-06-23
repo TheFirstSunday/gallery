@@ -1,2 +1,2 @@
 # gallery
-personal Picture bed. 
+personal Picture bed. picGO
